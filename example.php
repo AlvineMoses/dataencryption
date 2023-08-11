@@ -3,13 +3,13 @@ date_default_timezone_set('America/New_York');
 ?>
 <html>
 <head>
-<title>PHP ENCRYPTION DECRYPTION MYSQL | The Best PHP Encryption Tutorial</title>
+<title>PHP ENCRYPTION CNS</title>
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" >
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 </head>
 <body>
 <?php include_once('menu.php'); ?>
-<div class="jumbotron"><h1>The Best PHP Encryption Tutorial</h1></div>
+<div class="jumbotron"><h1>PHP Encryption Project</h1></div>
 <div class="container">
  <div class="row">
  <div class="col-sm-3"></div>

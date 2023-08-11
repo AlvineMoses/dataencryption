@@ -14,7 +14,7 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="insert.php">Insert </a></li>
+        <li><a href="index.php">Insert </a></li>
         <li><a href="retrieve.php">Retrieve </a></li>
         <li><a href="example.php">Example </a></li>
         <li><a href="search.php">Search </a></li>
